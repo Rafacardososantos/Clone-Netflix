@@ -1,0 +1,13 @@
+.modal {
+
+}
+
+.modal--container {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 600px;
+    max-height: 80%; 
+    overflow-y: auto; 
+}
